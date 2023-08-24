@@ -130,6 +130,9 @@ width: 100%;
     flex-basis: 60%;
 }
 
+.about-col-2 > .sub-title {
+    margin-top: 50px;
+}
 .sub-title {
     color:aliceblue;
     font-size: 4rem;
